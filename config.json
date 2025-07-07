@@ -1,0 +1,51 @@
+{
+    "TOKEN": "MTEwNTUwNTgwMjEyODcyNDA2OQ.GsL5s2.6O8AVB1RqTyN_PGw3mxSC-04UdOKea4iGxJBuE",
+    "PRESENCE": "dnd",
+    "CPM": [
+        200,
+        310
+    ],
+    "FIRST": false,
+    "id": 1163513622769713182,
+    "channel_id": 1,
+    "TARGET_AMOUNT": 0.0,
+    "SMART_DELAY": true,
+    "RANGE_DELAY": false,
+    "DELAY": [
+        0.0,
+        0.0
+    ],
+    "BANNED_WORDS": ["bot",
+    "sniper"],
+    "MESSAGES": [    
+        "thanksss",
+        "thank you",
+        "THANKSSSS",
+        "thank u",
+        "tysm",
+        "tq"
+    ],
+    "WHITELIST": [],
+    "BLACKLIST": [],
+    "CHANNEL_WHITELIST": [699702250531979325],
+    "CHANNEL_BLACKLIST": [],
+    "IGNORE_USERS": [],
+    "WHITELIST_ON": false,
+    "BLACKLIST_ON": false,
+    "SEND_MESSAGE": false,
+    "CHANNEL_WHITELIST_ON": true,
+    "CHANNEL_BLACKLIST_ON": false,
+    "IGNORE_DROPS_UNDER": 0.009,
+    "IGNORE_TIME_UNDER": 2.0,
+    "IGNORE_THRESHOLDS": [],
+    "DISABLE_AIRDROP": false,
+    "DISABLE_TRIVIADROP": false,
+    "DISABLE_MATHDROP": true,
+    "DISABLE_PHRASEDROP": false,
+    "DISABLE_REDPACKET": true,
+    "DELAY_AIRDROP": true,
+    "DELAY_TRIVIADROP": true,
+    "DELAY_MATHDROP": true,
+    "DELAY_PHRASEDROP": true,
+    "DELAY_REDPACKET": true
+}
